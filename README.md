@@ -6,7 +6,4 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,dart,flutter,kotlin,python,git,linux" />
 
-
-<img src="https://komarev.com/ghpvc/?username=SHITPOSTKUN&style=flat-square&color=111111&label=PROFILE+VIEWS"/>
-
 </div>
