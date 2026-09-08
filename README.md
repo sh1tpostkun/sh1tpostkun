@@ -1,16 +1,32 @@
-## Hi there 👋
+# SHITPOSTKUN
 
-<!--
-**sh1tpostkun/sh1tpostkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> developer • designer • music enjoyer • professional internet dweller
 
-Here are some ideas to get you started:
+I build weird interfaces, interactive websites and applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- 🖥️ SHITOS — interactive retro computer portfolio
+- 🎵 Lane — music metadata / discovery project
+- 📱 Flutter & Kotlin applications
+- 🌐 experimental web projects
+
+### Tech
+
+![HTML](...)
+![CSS](...)
+![JavaScript](...)
+![TypeScript](...)
+![Flutter](...)
+![Dart](...)
+![Kotlin](...)
+![Python](...)
+![Git](...)
+![Linux](...)
+
+### Currently
+
+```text
+OS          Arch Linux
+Editor      VS Code
+Languages   Dart / Kotlin / JS / Python
+Interests   Games / Anime / Music / UI / Weird websites
