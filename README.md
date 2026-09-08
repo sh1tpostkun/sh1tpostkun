@@ -4,7 +4,7 @@
 
 <br>
 
-`developer • designer • music • games`
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=developer+%E2%80%A2+designer+%E2%80%A2+music+%E2%80%A2+games;welcome+to+SHITPOSTKUN;building+things+on+the+internet" />
 
 <br><br>
 
