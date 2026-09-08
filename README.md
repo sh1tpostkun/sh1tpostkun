@@ -1,89 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,50:1a1a1a,100:050505&text=SHITPOSTKUN&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=DIGITAL%20CREATOR%20%2F%20DEVELOPER&descAlignY=61&descSize=17&animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=building+things+on+the+internet;interfaces+%7C+apps+%7C+experiments+%7C+code;Arch+Linux+%2B+VS+Code;welcome+to+my+little+corner+of+the+web" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SHITPOSTKUN&fontSize=72&fontColor=ffffff&stroke=ffffff&strokeWidth=1&animation=fadeIn&color=000000" width="100%"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SHITPOSTKUN&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### `SYSTEM STATUS`
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   USER       : SHITPOSTKUN                              │
-│   STATUS     : ONLINE                                   │
-│   SYSTEM     : ARCH LINUX                               │
-│   EDITOR     : VS CODE                                  │
-│   MODE       : CREATIVE                                 │
-│                                                         │
-│   CURRENTLY  : writing code & making weird interfaces   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-## `ABOUT`
-
-```text
-I like computers, games, music, anime and strange ideas.
-
-I enjoy turning concepts into interfaces,
-interactive experiences and applications.
-
-Sometimes useful.
-Sometimes experimental.
-Sometimes completely unnecessary.
-
-Usually all three at once.
-```
+`WEB / CODE / DESIGN / MUSIC / GAMES`
 
 <br>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420">
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=3500&pause=1200&color=999999&center=true&vCenter=true&width=720&lines=somewhere+between+design+and+code;making+things+that+shouldn't+exist;internet+resident;currently+online" />
 
 </div>
 
+<br>
+
 ---
 
-## `WHAT I DO`
+<div align="center">
 
-<table align="center">
+### `01 — INTRODUCTION`
+
+</div>
+
+<table>
 <tr>
-<td width="33%" align="center">
+<td width="55%" valign="top">
 
-### `WEB`
+## Hello.
 
-Building interfaces, websites and interactive experiences.
+I'm **SHITPOSTKUN**.
+
+I spend my time somewhere between
+**designing interfaces**, **writing code**,
+playing games and listening to music.
+
+I like things with personality.
+
+Not everything needs to be
+minimal, corporate or serious.
+
+Sometimes software can just be
+**fun to look at.**
 
 </td>
 
-<td width="33%" align="center">
+<td width="45%" align="center">
 
-### `APP`
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDg4eGJ6dG5kM2J0OHFjN3l1aWZ3eDNuOTd1Y3JqczE4d2F1ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="330"/>
 
-Mobile applications and experimental software.
+<br>
 
-</td>
-
-<td width="33%" align="center">
-
-### `DESIGN`
-
-UI concepts, visual systems and digital aesthetics.
+`STATUS: ONLINE`
 
 </td>
 </tr>
@@ -91,113 +58,186 @@ UI concepts, visual systems and digital aesthetics.
 
 ---
 
-## `TECH STACK`
-
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,kotlin,dart" />
-
-<br><br>
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,git,github,vscode" />
-
-<br><br>
-
-### Environment
-
-<img src="https://skillicons.dev/icons?i=linux,arch,bash" />
+### `02 — CURRENT STATE`
 
 </div>
-
----
-
-## `DESIGN PHILOSOPHY`
-
-<div align="center">
 
 ```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   "Good interfaces should feel like places, not forms."    │
-│                                                            │
-│   simplicity     ────────────  but not boring              │
-│   functionality  ────────────  but not sterile             │
-│   aesthetics     ────────────  but not useless             │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+LOCATION    / somewhere on the internet
+SYSTEM      / Arch Linux
+EDITOR      / VS Code
+MODE        / building
+MOOD        / 2000s web
+STATUS      / ████████████████████ ONLINE
 ```
 
-</div>
-
----
-
-## `INTERESTS`
-
-<div align="center">
-
-![Games](https://img.shields.io/badge/GAMES-111111?style=for-the-badge\&logo=steam\&logoColor=white)
-![Music](https://img.shields.io/badge/MUSIC-111111?style=for-the-badge\&logo=spotify\&logoColor=white)
-![Anime](https://img.shields.io/badge/ANIME-111111?style=for-the-badge\&logo=crunchyroll\&logoColor=white)
-![Design](https://img.shields.io/badge/DESIGN-111111?style=for-the-badge\&logo=figma\&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-111111?style=for-the-badge\&logo=linux\&logoColor=white)
-![Retro](https://img.shields.io/badge/RETRO-111111?style=for-the-badge\&logo=retroarch\&logoColor=white)
-
-</div>
-
 ---
 
 <div align="center">
 
-## `GITHUB ACTIVITY`
+### `03 — THINGS I LIKE`
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHITPOSTKUN&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github" height="180"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHITPOSTKUN&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" height="180"/>
-
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<br>
+🖥️
 <br><br>
+<strong>COMPUTERS</strong>
+<br><br>
+old machines<br>
+new ideas
+<br>
+</td>
 
-<img src="https://streak-stats.demolab.com?user=SHITPOSTKUN&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666" width="700"/>
+<td align="center" width="20%">
+<br>
+🎮
+<br><br>
+<strong>GAMES</strong>
+<br><br>
+retro<br>
+modern
+<br>
+</td>
+
+<td align="center" width="20%">
+<br>
+🎧
+<br><br>
+<strong>MUSIC</strong>
+<br><br>
+albums<br>
+soundtracks
+<br>
+</td>
+
+<td align="center" width="20%">
+<br>
+🎨
+<br><br>
+<strong>DESIGN</strong>
+<br><br>
+UI<br>
+visuals
+<br>
+</td>
+
+<td align="center" width="20%">
+<br>
+🌐
+<br><br>
+<strong>WEB</strong>
+<br><br>
+experiments<br>
+interfaces
+<br>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `04 — TOOLBOX`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,dart,flutter,kotlin,python,git,github,linux,arch,vscode" />
 
 </div>
 
 ---
-
-## `CONNECTION`
-
-<div align="center">
-
-<a href="https://github.com/SHITPOSTKUN">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://steamcommunity.com/">
-<img src="https://img.shields.io/badge/STEAM-111111?style=for-the-badge&logo=steam&logoColor=white">
-</a>
-
-<a href="https://www.last.fm/">
-<img src="https://img.shields.io/badge/LAST.FM-111111?style=for-the-badge&logo=lastdotfm&logoColor=white">
-</a>
-
-</div>
 
 <br>
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff" width="85%"/>
+
+### `I DON'T REALLY HAVE A STYLE.`
+
+`I JUST KEEP MAKING THINGS UNTIL SOMETHING FEELS RIGHT.`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ffffff" width="85%"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### `05 — GITHUB`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=SHITPOSTKUN&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_title=true" width="470"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHITPOSTKUN&layout=donut&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" width="340"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=SHITPOSTKUN&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" width="650"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `06 — TRANSMISSION`
+
+<br>
+
 ```text
-────────────────────────────────────────────────────────────
-
-             THANKS FOR STOPPING BY
-
-          stay weird • keep creating • ship things
-
-────────────────────────────────────────────────────────────
+┌────────────────────────────────────────────┐
+│                                            │
+│       THANK YOU FOR VISITING               │
+│                                            │
+│       THE PAGE IS NEVER REALLY DONE.       │
+│                                            │
+│       ─────────────────────────────        │
+│                                            │
+│              SHITPOSTKUN                   │
+│                                            │
+└────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050505,50:1a1a1a,100:111111&section=footer" width="100%"/>
+<br>
+
+<a href="https://github.com/SHITPOSTKUN">
+
+<img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white"/>
+
+</a>
+
+ 
+
+<a href="https://www.last.fm/">
+
+<img src="https://img.shields.io/badge/LAST.FM-000000?style=flat-square&logo=lastdotfm&logoColor=white"/>
+
+</a>
+
+ 
+
+<a href="https://steamcommunity.com/">
+
+<img src="https://img.shields.io/badge/STEAM-000000?style=flat-square&logo=steam&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=000000" width="100%"/>
 
 </div>
