@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=SHITPOSTKUN&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:111111,100:000000" width="100%"/>
+<div align="center">
+  <img
+    src="./assets/SHITPOSTKUN_CRT_REAL_ANIMATION.gif"
+    width="100%"
+    alt="SHITPOSTKUN CRT"
+  />
+</div>
 
 <br>
 
