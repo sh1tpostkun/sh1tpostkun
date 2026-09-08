@@ -1,12 +1,6 @@
 <div align="center">
 
-<div align="center">
-  <img
-    src="./assets/SHITPOSTKUN_CRT_REAL_ANIMATION.gif"
-    width="100%"
-    alt="SHITPOSTKUN CRT"
-  />
-</div>
+  <img src="./assets/SHITPOSTKUN_CRT_REAL_ANIMATION.gif" width="100%" alt="SHITPOSTKUN CRT"/>
 
 <br>
 
